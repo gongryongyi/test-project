@@ -18,27 +18,17 @@ public class B_ohksang extends Place {
         switch (random){
 
             case 1 :
-                minHaein.meet();
+                minHaein.meetB();
                 break;
             case 2 :
-                leeSeol.meet();
+                leeSeol.meetB();
                 break;
             case 3 :
-                leeHyun.meet();
+                leeHyun.meetB();
                 break;
             case 4 :
-                kangJihan.meet();
+                kangJihan.meetB();
                 break;
-
-
-
-
-
-
-
-
-
-
 
         }
     }

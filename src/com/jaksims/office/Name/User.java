@@ -1,6 +1,8 @@
 package com.jaksims.office.Name;
 
-public class User {
+import com.jaksims.office.welcome.Start;
+
+public class User extends Start {
 
     public void meet(){
         System.out.println("만나다");

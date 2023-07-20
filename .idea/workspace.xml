@@ -5,22 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bda7c6f1-251c-45a2-a5f1-748ac8e2f4da" name="변경" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/com/jaksims/office/place/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jaksims/office/welcome/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jaksims/office/place/Start.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jaksims/office/Action/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jaksims/office/present/prazenddo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jaksims/office/Name/Kang_jihan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jaksims/office/Name/Kang_jihan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jaksims/office/Name/Lee_hyun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jaksims/office/Name/Lee_hyun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jaksims/office/Name/Lee_seol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jaksims/office/Name/Lee_seol.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/jaksims/office/Name/Min_haein.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jaksims/office/Name/Min_haein.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/jaksims/office/Name/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jaksims/office/Name/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/jaksims/office/place/A_tangbisil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jaksims/office/place/A_tangbisil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jaksims/office/place/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jaksims/office/place/Application1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/jaksims/office/place/B_ohksang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jaksims/office/place/B_ohksang.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/jaksims/office/place/C_talkroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jaksims/office/place/C_talkroom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/jaksims/office/place/D_elevator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jaksims/office/place/D_elevator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jaksims/office/place/E_jjindda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jaksims/office/place/E_jjindda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jaksims/office/place/Place.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jaksims/office/place/Place.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jaksims/office/welcome/Start.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,5 +74,21 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jaksims/office/place/Place.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jaksims/office/Name/Min_haein.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,6 +1,6 @@
 package com.jaksims.office.Name;
 
-import com.jaksims.office.welcome.Start;
+import com.jaksims.office.place.Start;
 
 public class User extends Start {
 
